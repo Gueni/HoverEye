@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "275457532184",
+    "firebase_url": "https://hovereye-a2a65.firebaseio.com",
+    "project_id": "hovereye-a2a65",
+    "storage_bucket": "hovereye-a2a65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275457532184:android:1ca26f3df989f883",
+        "android_client_info": {
+          "package_name": "com.example.gueni.hovereye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275457532184-tva4tsf2s0ad1t487gtgt4uf2mld93h6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gueni.hovereye",
+            "certificate_hash": "8c4c0ca992ca28d793d941c22d2edf51485f7798"
+          }
+        },
+        {
+          "client_id": "275457532184-g9657phj3l1f56lnck91kinpllhvcgvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCuIk4sQAhjoPmz1EwuRkAZsLIovjIZUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275457532184-g9657phj3l1f56lnck91kinpllhvcgvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
